@@ -1,0 +1,1 @@
+GHENeSys is conceived as an extended net with concepts of object-orientation, a mechanism of abstraction -through the definition of hierarchy-, and synthesis -using a structured approach. GHENeSys have a great potential to become in that tool capable of represent, in a unified way, PN and their extensions, as well as the high level PN.
